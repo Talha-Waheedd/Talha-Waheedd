@@ -177,6 +177,8 @@ Sukkur IBA University — Sukkur, Sindh, Pakistan
 **Relevant Coursework:**
 Data Structures & Algorithms · Database Management Systems · Object-Oriented Programming · Software Engineering · Computer Networks · Operating Systems · Probability & Statistics
 
+## Learning GitHub Daily 🚀
+
 ---
 
 ## 💡 What I Bring
