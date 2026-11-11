@@ -108,8 +108,8 @@ Scores resumes against job descriptions. **Live on Streamlit Cloud.**<br/>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Talha-Waheedd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-Waheedd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="langs"/>
+<img height="190" alt="GitHub stats" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+<img height="190" alt="Top languages" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Talha-Waheedd&theme=tokyonight&hide_border=true&background=0f172a" alt="streak"/>
 
